@@ -20,5 +20,4 @@
     </div>
 <br>  
 
-
 Thanks for visiting my GitHub profile. I hope to see you again soon!
