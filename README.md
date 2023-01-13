@@ -20,7 +20,12 @@
     </div>
 <br>  
 
-<summary>🐍 Snake Contribution Graph</summary>
-![Snake](https://github.com/MaheshTheDeveloper/MaheshTheDeveloper/snake-animation.svg)
+<details>
+  <summary>🐍 Snake Contribution Graph</summary>
+  <br>
+
+  ![Snake](https://github.com/snake-animation.svg](https://github.com/MaheshTheDeveloper/MaheshTheDeveloper/blob/main/snake-animation.svg)
+
+</details>
 
 Thanks for visiting my GitHub profile. I hope to see you again soon!
