@@ -1,8 +1,8 @@
 ### Hey! 👋
 
-- 🔭 I’m currently working on a blog project: [Portfolio Site](Maheshthedeveloper.github.io)
+- 🔭 I’m currently working on a blog project: [Portfolio Site](mahesh.is-a.dev)
 
- - 📑 My new big project is [Portfolio site](Maheshthedeveloper.github.io). I'm excited to see what this project becomes in the future and I'm happy to work with other people on this project.
+ - 📑 My new big project is [Portfolio site](mahesh.is-a.dev). I'm excited to see what this project becomes in the future and I'm happy to work with other people on this project.
 
 - 🌱 I’m currently learning Python, Html, Css, Js, Node.js, Mern Stack, Java, Php    
 
