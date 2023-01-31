@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-- 🔭 I’m currently working on project: [My Site](mahesh.is-a.dev)
+- 🔭 I’m currently working on project: [Free-for.life](free-for.life)
 
 - 📑 My new big project is [Portfolio](mahesh.is-a.dev). I'm excited to see what this project becomes in the future and I'm happy to work with other people on this project.
 
