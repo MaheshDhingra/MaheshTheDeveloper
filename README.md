@@ -1,8 +1,8 @@
 ### Hey! 👋
 
-- 🔭 I’m currently working on project: [Free-for.life](free-for.life)
+- 🔭 I’m currently working on project: [Nothing](Nothing)
 
-- 📑 My new big project is [Portfolio](mahesh.is-a.dev). I'm excited to see what this project becomes in the future and I'm happy to work with other people on this project.
+- 📑 My new big project is [Web-Design-Lands](https://github.com/MaheshTheDeveloper/Web-Design-Land). I'm excited to see what this project becomes in the future and I'm happy to work with other people on this project.
 
 - 🌱 I’m currently learning Python, Html, Css, Js, Node.js, Mern Stack, Java, Php    
 
