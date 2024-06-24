@@ -1,10 +1,10 @@
 ### Hey! 👋
 
-- 🔭 I’m currently working on project: (PRIVATE PROJECT), [Portfolio](mahesh.is-a.dev)
+- 🔭 I’m currently working on project: (Free-for-life), [Website](free-for.life)
 
 - 📑 My new big project is [Web-Design-Lands](https://github.com/MaheshTheDeveloper/Web-Design-Land). I'm excited to see what this project becomes in the future and I'm happy to work with other people on this project.
 
-- 🌱 I’m currently learning Python, Html, Css, Js, Node.js, Mern Stack, Java, Php, Numpy, Panda    
+- 🌱 I’m currently mastering Python, Html, Css, Js, Node.js, Mern Stack, Java, Php, Numpy, Panda, Pytorch, Tensorflow, Machine Learning.     
 
 - ⚡ This is my first open source project:  [Escape-the-island](https://github.com/MaheshTheDeveloper/Escape-the-Island)
  
