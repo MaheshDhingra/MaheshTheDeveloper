@@ -20,4 +20,15 @@
     </div>
 <br>  
 
-Thanks for visiting my GitHub profile. I hope to see you again soon!
+Explore more of my work or reach out..
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opensourcesimon/opensourcesimon/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/opensourcesimon/opensourcesimon/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/opensourcesimon/opensourcesimon/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<div align="center">  
+  <img src="https://komarev.com/ghpvc/?username=OpenSourceSimon" />
+</div>
