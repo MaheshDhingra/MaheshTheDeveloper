@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-- 🔭 I’m currently working on project: (Free-for-life), [Free-for.life](free-for.life)
+- 🔭 I’m currently working on project: (My Portfolio), [Mahesh.is-a.dev](https://mahesh.is-a.dev.com)
 
 - 📑 My new big project is [Web-Design-Lands](https://github.com/MaheshDhingra/Web-Design-Land). I'm excited to see what this project becomes in the future and I'm happy to work with other people on this project.
 
